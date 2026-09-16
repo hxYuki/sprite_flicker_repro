@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-bevy = { git = "https://github.com/hxYuki/bevy", rev = "221e52ae3", default-features = false, features = [
+bevy = { git = "https://github.com/bevyengine/bevy", rev = "671eca5", default-features = false, features = [
   "2d",
 ] }
